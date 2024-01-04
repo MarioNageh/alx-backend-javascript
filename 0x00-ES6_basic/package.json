@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev": "./node_modules/.bin/babel-node",
+    "dev": "npx babel-node",
     "lint": "./node_modules/.bin/eslint"
   },
   "keywords": [],
